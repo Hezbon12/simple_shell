@@ -1,6 +1,6 @@
 # simple_shell
 Write a simple UNIX command interpreter.
-The Simple_shell project was made by Hezbon Oduol and Shaun Mak, students of ALX. For this project we have some instruction that you will see in this README.
+The Simple_shell project was made by https://github.com/Hezbon12/simple_shell and Shaun Mak, students of ALX. For this project we have some instruction that you will see in this README.
 
 Read or watch:
 
