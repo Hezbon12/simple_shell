@@ -10,5 +10,4 @@ Ken Thompson
 Everything you need to know to start coding your own shell concept page
 man or help:
 
-Authors.
-Hezbon Oduol and Shaun Mak
+[AUTHORS](https://github.com/Hezbon12/simple_shell/blob/main/AUTHORS)
