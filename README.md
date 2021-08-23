@@ -4,9 +4,9 @@ The Simple_shell project was made by [Hezbon Oduol](https://github.com/Hezbon12)
 
 Read or watch: 
 
-Unix shell
-Thompson shell
-Ken Thompson
+[Unix shell](https://en.wikipedia.org/wiki/Unix_shell)
+[Thompson shell](https://en.wikipedia.org/wiki/Thompson_shell)
+[Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
 Everything you need to know to start coding your own shell concept page
 man or help:
 
